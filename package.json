@@ -1,0 +1,20 @@
+{
+  "name": "an006-word-counter",
+  "version": "1.0.0",
+  "description": "its a simple cli base words counter",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Annum Nazir\"",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.7"
+  }
+}
